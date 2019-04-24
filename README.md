@@ -1,4 +1,7 @@
-This is a live markdown editor.
+# Live markdown editor.
+
+*TODO :*
+* add text centered support
 
 ## Available Scripts
 
